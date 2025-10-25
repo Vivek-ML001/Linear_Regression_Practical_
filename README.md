@@ -93,10 +93,5 @@ By going through this notebook, you will learn to:
 ## 🧩 Author
 
 **Vivek Kumar**
-Machine Learning Student | Explorer | Developer
-🔗 [GitHub Profile](https://github.com/Vivek-ML001)
-
----
-
-Would you like me to make it more **beginner-friendly (for college submission)** or **more professional (for GitHub portfolio)** version? I can adjust the tone and format accordingly.
+Machine Learning Student | Explorer |
 
